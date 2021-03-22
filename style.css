@@ -17,3 +17,20 @@
   display: flex;
   justify-content: flex-end;
 }
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-control {
+  align-self: flex-end; /* margin-bottom: 20px; */
+}
+
+.form-group input {
+  margin: 0 5px;
+}
+
+.form-group label {
+  margin: 5px;
+}
