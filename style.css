@@ -9,8 +9,11 @@
   display: flex;
   justify-content: flex-start;
   height: 55px;
+  width: 100%;
 }
 
-.facebook-logo {
-  margin-left: 20%;
+.facebook-login {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
 }
