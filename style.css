@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.top-bar {
+  background-color: rgb(66, 103, 178);
+  display: flex;
+  justify-content: flex-start;
+  height: 55px;
+}
+
+.facebook-logo {
+  margin-left: 20%;
+}
