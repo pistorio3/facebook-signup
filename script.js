@@ -4,6 +4,3 @@ const button = document.getElementById('button-login');
 button.addEventListener('click', () => {
   alert(email.value);
 });
-
-
-
