@@ -34,3 +34,17 @@
 .form-group label {
   margin: 5px;
 }
+
+.main-content {
+  display: flex;
+  background-color: gray;
+  justify-content: space-between;
+}
+
+.left-content {
+  width: 800px;
+}
+
+.right-content {
+  width: 300px;
+}
